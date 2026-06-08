@@ -1,0 +1,265 @@
+{
+  "main": {
+    "id": "2ba1f1ec95d81b2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c37a0f0fa68d1913",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "557ce59385448f75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "🎲 Sistema/🧙‍♂️🔥 Efectos fatídicos de sobrecarga.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "🧙‍♂️🔥 Efectos fatídicos de sobrecarga"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bb05125d0d19e72a",
+    "type": "split",
+    "children": [
+      {
+        "id": "84316511b4d17d49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8418429730e499bc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "2ca18786d0a926a9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "818f0afb3fda7e27",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3e3bf572e9093295",
+    "type": "split",
+    "children": [
+      {
+        "id": "406b451273318759",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4b88c50e976f080",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Trama/Idea generalista de la trama.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Idea generalista de la trama"
+            }
+          },
+          {
+            "id": "c7188948f4882773",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Trama/Idea generalista de la trama.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Idea generalista de la trama"
+            }
+          },
+          {
+            "id": "c18a03215fc839f2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7c224c45c2e36020",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3be9a63fbf328f2d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Trama/Idea generalista de la trama.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Idea generalista de la trama"
+            }
+          },
+          {
+            "id": "ff42d9291b83d2c8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "0b3404bc1eb8a10e",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "08d0329920b78227",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false,
+      "fantasy-content-generator:Fantasy Generators": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "copilot:Open Copilot Chat": false,
+      "templater-obsidian:Templater": false,
+      "initiative-tracker:Initiative Tracker Encounter Builder": false
+    }
+  },
+  "active": "557ce59385448f75",
+  "lastOpenFiles": [
+    "🎲 Sistema/📝 -- CLASES DE PERSONAJE/🧪 Alquimista.md",
+    "Jugadores/Resumen de jugadores.md",
+    "Localizaciones/Pueblo de Brezal/Personajes/Lord Kregan Cuervonegro.md",
+    "Localizaciones/Pueblo de Brezal/Personajes/Bogren Risco.md",
+    "Localizaciones/Pueblo de Brezal/Personajes/Adela, hija del tabernero.md",
+    "Trama/Parte I - La maldición de Kuthalpa/Sesión 2/Sesión 2.md",
+    "Trama/Parte I - La maldición de Kuthalpa/Sesión 1/Sesión 1 - El clavo negro.md",
+    "Trama/Parte I - La maldición de Kuthalpa/Sesión 1/Capítulos/Capítulo 3 - El naufragio.md",
+    "PARA GPT.md",
+    "Trama/Parte I - La maldición de Kuthalpa/Historia de la trama - La maldición de Kuthalpa.md",
+    "Trama/Parte I - La maldición de Kuthalpa/Sesión 2",
+    "Pasted image 20260115192146.png",
+    "🎲 Sistema/Sistema de magia TEST A REVISAR.md",
+    "🎲 Sistema/v2Revisión de combate — Daño, PG, armas, armaduras, munición y NPC (v0.4).md",
+    "🎲 Sistema/Raciales.md",
+    "Pasted image 20260115192202.png",
+    "NOTAS TEMPORALES.md",
+    "Templates/Character template.md",
+    "Trama/Parte I - La maldición de Kuthalpa/Sesión 1/Capítulos/📝(ficha) SOMBRA ACECHANTE.md",
+    "Trama/Parte I - La maldición de Kuthalpa/Raciales.md",
+    "Trama/Parte I - La maldición de Kuthalpa/Sesión 1/Capítulos/📝(ficha) Erika (la sastre).md",
+    "Trama/Parte I - La maldición de Kuthalpa/Sesión 1/Capítulos/Capítulo 0 - El despertar en Ferost.md",
+    "Trama/Parte I - La maldición de Kuthalpa/Sesión 1/Capítulos/Capítulo 1 — Día tranquilo en la Mansión Cuervonegro.md",
+    "Trama/Parte I - La maldición de Kuthalpa/Sesión 1/Capítulos/Capítulo 2 - La llegada de la tormenta.md",
+    "🎲 Sistema/📝 -- CLASES DE PERSONAJE/🔥 Piromante.md",
+    "🎲 Sistema/🧙‍♂️🔥 Efectos fatídicos de sobrecarga.md",
+    "🎲 Sistema/📝 -- CLASES DE PERSONAJE/🗡️ Tejesombras.md",
+    "🎲 Sistema/📝 -- CLASES DE PERSONAJE/💪 Bárbaro.md",
+    "🎲 Sistema/📝 -- CLASES DE PERSONAJE",
+    "🎲 Sistema",
+    "Revisión de combate — Daño, PG y armas (v0.4).md",
+    "NPCs Genéricos",
+    "Trama/Parte I - La maldición de Kuthalpa/Sesión 1",
+    "Trama/Parte I - La maldición de Kuthalpa/Sesión 1/Capítulos",
+    "Jugadores",
+    "Templates",
+    "Templates",
+    "Trama/Parte I - La maldición de Kuthalpa",
+    "Untitled.canvas",
+    "Personajes/Untitled.canvas"
+  ]
+}

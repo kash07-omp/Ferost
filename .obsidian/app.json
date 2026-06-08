@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "showInlineTitle": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "showUnsupportedFiles": false
+}

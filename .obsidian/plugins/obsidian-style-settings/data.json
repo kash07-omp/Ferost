@@ -1,0 +1,14 @@
+{
+  "ITS@@select": "wotc-beyond",
+  "ITS@@s-d": false,
+  "ITS@@slrvb-g": false,
+  "ITS@@its-d": false,
+  "ITS@@slrvb-b": false,
+  "ITS@@accent-color": false,
+  "ITS@@t-d": false,
+  "ITS@@drwn": false,
+  "entry-point@@color-scheme-selector": "color-scheme-alchemy",
+  "ITS@@justified": false,
+  "ITS@@paper": true,
+  "ITS@@default-font": "Folklore"
+}

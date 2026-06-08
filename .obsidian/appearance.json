@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Ukiyo",
+  "theme": "obsidian",
+  "showViewHeader": true,
+  "accentColor": "#e3f55c",
+  "interfaceFontFamily": "Folklore",
+  "textFontFamily": "Folklore",
+  "monospaceFontFamily": "Folklore",
+  "enabledCssSnippets": [
+    "Theme - D&D WOTC"
+  ]
+}
