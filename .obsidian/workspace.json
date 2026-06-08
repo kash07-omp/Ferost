@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c37a0f0fa68d1913",
+        "id": "8a90815b7d0f909c",
         "type": "tabs",
         "children": [
           {
-            "id": "557ce59385448f75",
+            "id": "6567e86e1afb6ef1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🎲 Sistema/🧙‍♂️🔥 Efectos fatídicos de sobrecarga.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "🧙‍♂️🔥 Efectos fatídicos de sobrecarga"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -171,8 +167,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -181,12 +177,22 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "message-square",
-              "title": "Copilot"
+              "icon": "lucide-ghost",
+              "title": "copilot-chat-view"
             }
           },
           {
             "id": "08d0329920b78227",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "35988cd101b03af6",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -219,14 +225,16 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "557ce59385448f75",
+  "active": "6567e86e1afb6ef1",
   "lastOpenFiles": [
-    "🎲 Sistema/📝 -- CLASES DE PERSONAJE/🧪 Alquimista.md",
+    "Jugadores/Trasfondo Nyxargyra.md",
     "Jugadores/Resumen de jugadores.md",
+    "Trama/Parte I - La maldición de Kuthalpa/Sesión 2/Sesión 2.md",
+    "🎲 Sistema/🧙‍♂️🔥 Efectos fatídicos de sobrecarga.md",
+    "🎲 Sistema/📝 -- CLASES DE PERSONAJE/🧪 Alquimista.md",
     "Localizaciones/Pueblo de Brezal/Personajes/Lord Kregan Cuervonegro.md",
     "Localizaciones/Pueblo de Brezal/Personajes/Bogren Risco.md",
     "Localizaciones/Pueblo de Brezal/Personajes/Adela, hija del tabernero.md",
-    "Trama/Parte I - La maldición de Kuthalpa/Sesión 2/Sesión 2.md",
     "Trama/Parte I - La maldición de Kuthalpa/Sesión 1/Sesión 1 - El clavo negro.md",
     "Trama/Parte I - La maldición de Kuthalpa/Sesión 1/Capítulos/Capítulo 3 - El naufragio.md",
     "PARA GPT.md",
@@ -246,12 +254,10 @@
     "Trama/Parte I - La maldición de Kuthalpa/Sesión 1/Capítulos/Capítulo 1 — Día tranquilo en la Mansión Cuervonegro.md",
     "Trama/Parte I - La maldición de Kuthalpa/Sesión 1/Capítulos/Capítulo 2 - La llegada de la tormenta.md",
     "🎲 Sistema/📝 -- CLASES DE PERSONAJE/🔥 Piromante.md",
-    "🎲 Sistema/🧙‍♂️🔥 Efectos fatídicos de sobrecarga.md",
     "🎲 Sistema/📝 -- CLASES DE PERSONAJE/🗡️ Tejesombras.md",
     "🎲 Sistema/📝 -- CLASES DE PERSONAJE/💪 Bárbaro.md",
     "🎲 Sistema/📝 -- CLASES DE PERSONAJE",
     "🎲 Sistema",
-    "Revisión de combate — Daño, PG y armas (v0.4).md",
     "NPCs Genéricos",
     "Trama/Parte I - La maldición de Kuthalpa/Sesión 1",
     "Trama/Parte I - La maldición de Kuthalpa/Sesión 1/Capítulos",

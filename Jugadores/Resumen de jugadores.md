@@ -1,4 +1,3 @@
 - Un tiefling piromante 
 - Una mujer-gato asesina y capaz de usar magia ilusoria
-- Una gnoma alquimista
 - Un humano inquisidor/berserk

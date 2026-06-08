@@ -1,3 +1,8 @@
+Resumen rápido de lo que pasó en la sesión 2:
+Los jugadores acabaron con el mayordomo con la ayuda de Zedran Murogris. Al hacerlo Nyxtine acabó perdiendo la memoria de quien era, únicamente recuerda el nombre de sus compañeros y que son amigos suyos. Tras esta aventura introductoria en la ciudad de Brezal, los jugadores marchan hacia la ciudad de Lucrados con la intención de averiguar más sobre la misteriosa deidad de la llama, sobre este inhospito mundo de hielo...
+
+
+
 Zedran -> 8
 Gon -> 6
 Sergio -> 4
