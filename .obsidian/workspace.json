@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8a90815b7d0f909c",
+        "id": "fc09898229ed11c4",
         "type": "tabs",
         "children": [
           {
-            "id": "6567e86e1afb6ef1",
+            "id": "f6314eeb6d2c6f14",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Localizaciones/Lucrados/Lucrados.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "title": "Lucrados"
             }
           }
         ]
@@ -225,8 +229,16 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "6567e86e1afb6ef1",
+  "active": "f6314eeb6d2c6f14",
   "lastOpenFiles": [
+    "Localizaciones/Lucrados/Lucrados.md",
+    "Trama/Parte I - La maldición de Kuthalpa/Sesión 1/Capítulos/Capítulo 0 - El despertar en Ferost.md",
+    "Localizaciones/Lucrados",
+    "Trama/Parte I - La maldición de Kuthalpa/Sesión 1/Capítulos/📝(ficha) SOMBRA ACECHANTE.md",
+    "Trama/Parte I - La maldición de Kuthalpa/Sesión 1/Capítulos/📝(ficha) Erika (la sastre).md",
+    "Jugadores/Radagon.md",
+    "Jugadores/Percival.md",
+    "Jugadores/Nyxargyra.md",
     "Jugadores/Trasfondo Nyxargyra.md",
     "Jugadores/Resumen de jugadores.md",
     "Trama/Parte I - La maldición de Kuthalpa/Sesión 2/Sesión 2.md",
@@ -247,15 +259,8 @@
     "Pasted image 20260115192202.png",
     "NOTAS TEMPORALES.md",
     "Templates/Character template.md",
-    "Trama/Parte I - La maldición de Kuthalpa/Sesión 1/Capítulos/📝(ficha) SOMBRA ACECHANTE.md",
     "Trama/Parte I - La maldición de Kuthalpa/Raciales.md",
-    "Trama/Parte I - La maldición de Kuthalpa/Sesión 1/Capítulos/📝(ficha) Erika (la sastre).md",
-    "Trama/Parte I - La maldición de Kuthalpa/Sesión 1/Capítulos/Capítulo 0 - El despertar en Ferost.md",
     "Trama/Parte I - La maldición de Kuthalpa/Sesión 1/Capítulos/Capítulo 1 — Día tranquilo en la Mansión Cuervonegro.md",
-    "Trama/Parte I - La maldición de Kuthalpa/Sesión 1/Capítulos/Capítulo 2 - La llegada de la tormenta.md",
-    "🎲 Sistema/📝 -- CLASES DE PERSONAJE/🔥 Piromante.md",
-    "🎲 Sistema/📝 -- CLASES DE PERSONAJE/🗡️ Tejesombras.md",
-    "🎲 Sistema/📝 -- CLASES DE PERSONAJE/💪 Bárbaro.md",
     "🎲 Sistema/📝 -- CLASES DE PERSONAJE",
     "🎲 Sistema",
     "NPCs Genéricos",
@@ -264,7 +269,6 @@
     "Jugadores",
     "Templates",
     "Templates",
-    "Trama/Parte I - La maldición de Kuthalpa",
     "Untitled.canvas",
     "Personajes/Untitled.canvas"
   ]
