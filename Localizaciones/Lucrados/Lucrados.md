@@ -133,7 +133,7 @@ Intendente del Agua y cara administrativa de la explotación del lago. Es la per
 - [[Custodios de la Savia]]: guardianes religiosos, botánicos y espirituales del árbol.
 - [[Cofradía del Cántaro]]: gremio que controla el reparto legal de agua.
 - [[Cordeleros del Viento]]: red de trabajadores de puentes, mensajeros, contrabandistas menores y pobres organizados.
-- [[Capilla de la Ascua Menor]]: culto debilitado a la llama protectora.
+- [[Capilla del Ascua]]: culto debilitado a la llama protectora.
 - [[Guardia Ducal de Lucrados]]: fuerza oficial del duque.
 
 ## Personajes relacionados

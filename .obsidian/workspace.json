@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fc09898229ed11c4",
+        "id": "2a3508aa660d13af",
         "type": "tabs",
         "children": [
           {
-            "id": "f6314eeb6d2c6f14",
+            "id": "aa9bf1facd440874",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Localizaciones/Lucrados/Lucrados.md",
+                "file": "Trama/Parte II - El templo de la llama/Sesión 1/Sesión 3 - La ciudad de Lucrados.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lucrados"
+              "title": "Sesión 3 - La ciudad de Lucrados"
             }
           }
         ]
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
@@ -229,47 +229,121 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "8418429730e499bc",
+  "floating": {
+    "id": "d2052077a3fad5a0",
+    "type": "floating",
+    "children": [
+      {
+        "id": "b64787ad756685c6",
+        "type": "window",
+        "children": [
+          {
+            "id": "8a0fcbc542d0aa71",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f6314eeb6d2c6f14",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Localizaciones/Lucrados/Lucrados.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Lucrados"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 169,
+        "y": 14,
+        "width": 1831,
+        "height": 1151,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "64dae47405820c35",
+        "type": "window",
+        "children": [
+          {
+            "id": "282ada2216ed4134",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "395dd5d863908f85",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Localizaciones/Lucrados/Organizaciones/Cordeleros del Viento.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Cordeleros del Viento"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1384,
+        "y": 9,
+        "width": 920,
+        "height": 1155,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "aa9bf1facd440874",
   "lastOpenFiles": [
+    "Localizaciones/Lucrados/Lucrados.md",
+    "Trama/Parte II - El templo de la llama/Sesión 1/Sesión 3 - La ciudad de Lucrados.md",
+    "Localizaciones/Lucrados/Organizaciones/Capilla del Ascua.md",
+    "Localizaciones/Lucrados/Personajes/Verya Quelebrin.md",
+    "Localizaciones/Lucrados/Personajes/Tristán Murogris.md",
+    "Localizaciones/Lucrados/Personajes/Liora Raízclara.md",
+    "Localizaciones/Lucrados/Personajes/Duque Mael Tercano.md",
+    "Localizaciones/Lucrados/Personajes/Caín.md",
+    "Localizaciones/Lucrados/Organizaciones/Cordeleros del Viento.md",
+    "Localizaciones/Lucrados/Organizaciones/Custodios de la Savia.md",
+    "Localizaciones/Lucrados/Organizaciones/Guardia Ducal de Lucrados.md",
+    "Trama/Parte II - El templo de la llama/Sesión 1/Capítulos/📝(ficha) SOMBRA ACECHANTE.md",
+    "Trama/Parte II - El templo de la llama/Sesión 1/Capítulos/📝(ficha) Erika (la sastre).md",
+    "Trama/Parte II - El templo de la llama/Sesión 1/Capítulos/Capítulo 3 - El naufragio.md",
+    "Trama/Parte II - El templo de la llama/Sesión 1/Capítulos/Capítulo 2 - La llegada de la tormenta.md",
+    "Trama/Parte II - El templo de la llama/Sesión 1/Capítulos/Capítulo 1 — Día tranquilo en la Mansión Cuervonegro.md",
+    "Trama/Parte II - El templo de la llama/Sesión 1/Capítulos/Capítulo 0 - El despertar en Ferost.md",
+    "Trama/Parte II - El templo de la llama/Sesión 1/Capítulos",
+    "Trama/Parte II - El templo de la llama/Sesión 2/Sesión 2.md",
+    "Trama/Parte II - El templo de la llama/Sesión 2",
+    "Trama/Parte II - El templo de la llama/Sesión 1",
+    "Trama/Parte II - El templo de la llama/Historia de la trama - La maldición de Kuthalpa.md",
+    "Trama/Parte II - El templo de la llama",
+    "Localizaciones/Lucrados/Personajes/Veyra Caldus.md",
+    "Localizaciones/Lucrados/Personajes/Nara Puentebajo.md",
+    "Localizaciones/Lucrados/Personajes/Duque Mael Tarceno.md",
+    "Localizaciones/Lucrados/Capilla del Ascua.png",
+    "Localizaciones/Lucrados/Sin confirmar 696848.crdownload",
+    "Localizaciones/Lucrados/Organizaciones/Cofradía del Cántaro.md",
+    "Localizaciones/Lucrados/Sin confirmar 237098.crdownload",
+    "Localizaciones/Lucrados/Lucrados.png",
+    "Cripta de Savia.md",
     "Localizaciones/Lucrados/Organizaciones",
     "Localizaciones/Lucrados/Personajes",
     "Localizaciones/Lucrados/Sin título.canvas",
-    "Localizaciones/Lucrados/Lucrados.md",
     "Trama/Parte I - La maldición de Kuthalpa/Sesión 1/Capítulos/Capítulo 0 - El despertar en Ferost.md",
     "Localizaciones/Lucrados",
     "Trama/Parte I - La maldición de Kuthalpa/Sesión 1/Capítulos/📝(ficha) SOMBRA ACECHANTE.md",
-    "Trama/Parte I - La maldición de Kuthalpa/Sesión 1/Capítulos/📝(ficha) Erika (la sastre).md",
-    "Jugadores/Radagon.md",
-    "Jugadores/Percival.md",
-    "Jugadores/Nyxargyra.md",
-    "Jugadores/Trasfondo Nyxargyra.md",
-    "Jugadores/Resumen de jugadores.md",
-    "Trama/Parte I - La maldición de Kuthalpa/Sesión 2/Sesión 2.md",
-    "🎲 Sistema/🧙‍♂️🔥 Efectos fatídicos de sobrecarga.md",
-    "🎲 Sistema/📝 -- CLASES DE PERSONAJE/🧪 Alquimista.md",
-    "Localizaciones/Pueblo de Brezal/Personajes/Lord Kregan Cuervonegro.md",
-    "Localizaciones/Pueblo de Brezal/Personajes/Bogren Risco.md",
-    "Localizaciones/Pueblo de Brezal/Personajes/Adela, hija del tabernero.md",
-    "Trama/Parte I - La maldición de Kuthalpa/Sesión 1/Sesión 1 - El clavo negro.md",
-    "Trama/Parte I - La maldición de Kuthalpa/Sesión 1/Capítulos/Capítulo 3 - El naufragio.md",
-    "PARA GPT.md",
-    "Trama/Parte I - La maldición de Kuthalpa/Historia de la trama - La maldición de Kuthalpa.md",
     "Trama/Parte I - La maldición de Kuthalpa/Sesión 2",
     "Pasted image 20260115192146.png",
-    "🎲 Sistema/Sistema de magia TEST A REVISAR.md",
-    "🎲 Sistema/v2Revisión de combate — Daño, PG, armas, armaduras, munición y NPC (v0.4).md",
-    "🎲 Sistema/Raciales.md",
     "Pasted image 20260115192202.png",
-    "NOTAS TEMPORALES.md",
-    "Templates/Character template.md",
-    "Trama/Parte I - La maldición de Kuthalpa/Raciales.md",
-    "🎲 Sistema/📝 -- CLASES DE PERSONAJE",
-    "🎲 Sistema",
-    "NPCs Genéricos",
-    "Trama/Parte I - La maldición de Kuthalpa/Sesión 1",
-    "Trama/Parte I - La maldición de Kuthalpa/Sesión 1/Capítulos",
-    "Jugadores",
-    "Templates",
     "Untitled.canvas",
     "Personajes/Untitled.canvas"
   ]

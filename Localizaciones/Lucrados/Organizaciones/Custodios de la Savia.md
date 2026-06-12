@@ -4,28 +4,19 @@
 
 ## Resumen
 
-Los **Custodios de la Savia** son una orden local de botánicos, sanadores, ritualistas y escribas que cuidan el árbol gigante de Lucrados. No son exactamente sacerdotes, aunque su labor tiene un componente sagrado. Para ellos, el árbol no es propiedad de la ciudad: la ciudad existe porque el árbol la tolera.
+Los **Custodios de la Savia** son una orden local de botánicos, sanadores, ritualistas y escribas que cuidan el árbol gigante de Lucrados. No son exactamente sacerdotes, aunque su labor tiene un componente sagrado. Para ellos, el árbol del mundo de Lucrados es uno de los grandes proveedores de vida del mundo. Creen que sus raíces se adentran profundo en la tierra y nutren de vida todo lo que tocan. Esto en parte es influenciado por las cualidades del propio agua y de la sabia del árbol.
 
 ## Función pública
 
 - Vigilan la salud del árbol.
-- Mantienen injertos, raíces expuestas y ramas dañadas.
-- Preparan ungüentos, savias medicinales y semillas rituales.
+- Preparan ungüentos, savias medicinales y administran el agua del lago.
 - Registran cambios en temperatura, hojas, raíces y humedad.
-- Custodian viejas canciones y ritos relacionados con la llama y la raíz.
 
 ## Situación actual
 
-Están perdiendo influencia frente al [[Duque Mael Tarceno]] y la [[Cofradía del Cántaro]]. El gobierno ducal les ha prohibido acceder a ciertos conductos y niveles bajos con la excusa de proteger la seguridad de la ciudad.
+Están perdiendo influencia frente al [[Duque Mael Tarceno]] y la [[Cofradía del Cántaro]]. El gobierno ducal les ha prohibido acceder a ciertos conductos y niveles bajos con la excusa de proteger la seguridad de la ciudad. El duque les tacha de corruptos y tacaños y les ha quitado la administración de las aguas del lago.
 
-En realidad, esos cierres ocultan la extracción ilegal de agua de raíz.
-
-## Creencias
-
-- La ciudad vive mientras raíz, agua y calor sigan unidos.
-- La savia recuerda.
-- El frío no mata solo cuerpos: también detiene promesas, nombres y cambios.
-- La llama antigua no destruye el árbol; lo despierta.
+En realidad, esos cierres ocultan la extracción ilegal de agua de raíz por parte del duque.
 
 ## NPC relacionado
 

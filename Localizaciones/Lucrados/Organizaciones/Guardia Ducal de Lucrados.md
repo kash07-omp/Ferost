@@ -4,7 +4,7 @@
 
 ## Resumen
 
-La **Guardia Ducal de Lucrados** mantiene el orden, vigila las puertas, controla disturbios, protege depósitos de agua y ejecuta las órdenes del duque. En teoría defiende la ciudad. En la práctica, protege el sistema que permite explotar el [[Lago Raízcálida]].
+La **Guardia Ducal de Lucrados** mantiene el orden, vigila las puertas, controla disturbios, protege el acceso al agua del lago y ejecuta las órdenes del duque. En teoría defiende la ciudad. En la práctica, protege el sistema que permite explotar el [[Lago Raízcálida]].
 
 No todos sus miembros son corruptos, pero la institución sí lo está.
 

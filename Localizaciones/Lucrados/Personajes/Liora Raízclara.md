@@ -1,65 +1,47 @@
+---
+Tipo: NPC
+Nombre: Caín de Lucrados
+Alias:
+  - 
+Arquetipo: Aprendiz de sabia
+Afiliaciones: "[[Custodios de la Savia]]"
+Localización: "[[Lucrados]]"
+tags:
+  - personaje
+  - aliado
+  - lucrados
+  - erudito
+---
+
 # Liora Raízclara
 
-> Custodia de la savia, investigadora del deterioro del árbol y aliada potencial en [[Lucrados]].
+> Una joven de 16 años que es muy inteligente pese a lo distraída y propensa a meterse en líos que es. Es la hija adoptiva de [[Caín]]
 
 ## Resumen
 
-**Liora Raízclara** pertenece a los [[Custodios de la Savia]]. Es una botánica, sanadora y guardiana espiritual del árbol central de Lucrados. Ha detectado que el árbol enferma desde la raíz y sospecha que el gobierno ducal está drenando el lago subterráneo.
+La joven Liora llegó a la puerta de [[Caín]] cuando solo era un bebé, abandonada por sus padres. Desde entonces fue criada por el erudito y se interesó en cuidar el árbol. Pese a que Caín menciona el poder de la sabiduría de los libros, Liora se centra más en los ejemplos prácticos. Siempre ha tenido un don para notar los cambios en el árbol, encontrar brotes de sabia naturales o raíces enfermas. Aunque siempre acaba estudiando, antes se encarga de sacar de quicio a su maestro y divertirse. 
 
-Puede convertirse en la principal aliada de los PJ durante el arco de Lucrados.
+Conoció a [[Tristán Murogris]] hace dos años, cuando el joven le salvó de ser encerrada por la [[Guardia Ducal de Lucrados]] por "gastar una bromita" a la capitana de la guardia. Esta bromita consistió en llenar la armadura de la capitana de pulgas y otros insectos.
 
-## Papel en la historia
+## Frase o idea que lo define
 
-- Contacta con los PJ tras ver que no están comprados por el duque.
-- Les explica los síntomas del árbol.
-- Puede guiarlos hacia la [[Espiral del Tronco]] y la [[Cripta de Savia]].
-- Conoce partes del culto antiguo a la llama, pero no todo.
-- Ayuda a interpretar la **Semilla de Ascua de Lucrados**.
+> “Tampoco ha sido para tanto. Solo puede que afectase un poquitín a algunas personas. Vale... Voy a pedir perdón.”
 
-## Personalidad
+## Atributos
 
-- Serena, observadora y paciente.
-- Habla como alguien acostumbrada a escuchar antes de responder.
-- Tiene rabia contenida contra el duque, pero evita actuar de forma impulsiva.
-- Está más interesada en salvar la ciudad que en derribar un régimen, aunque entiende que quizá ambas cosas sean lo mismo.
+| Atributo | Valor | Notas                                                                  |
+| -------- | ----: | ---------------------------------------------------------------------- |
+| Cuerpo   |     1 | Fuerza física, resistencia, aguante.                                   |
+| Agilidad |     3 | Destreza, precisión física, movimiento.                                |
+| Ingenio  |     2 | Lógica, memoria, análisis, resolución de problemas.                    |
+| Espíritu |     2 | Voluntad, autocontrol, resistencia mental, conexión espiritual/mágica. |
+| Instinto |     3 | Reacción, intuición, percepción inmediata.                             |
+| Gracia   |     2 | Carisma, presencia, intuición social, encanto.                         |
+## Habilidades destacadas
 
-## Apariencia
-
-- Ropa sencilla de fibras vegetales, lana oscura y cuero tratado.
-- Manos manchadas de savia y tinta.
-- Lleva cuchillos pequeños de injerto, vendas, frascos y semillas secas.
-- Puede tener mechones blancos por exposición prolongada a la savia fría del árbol enfermo.
-
-## Información que puede revelar
-
-- El lago baja de nivel desde hace años.
-- Las raíces profundas ya no beben con normalidad.
-- Algunos sectores del árbol suenan huecos.
-- El calor de la ciudad se ha debilitado.
-- El duque prohibió a los Custodios acceder a ciertos conductos.
-- Hay barriles de agua de raíz saliendo de noche.
-- La Cripta de Savia existe, pero pocos pueden abrirla.
-
-## Relación con los PJ
-
-### Con [[Nyxargyra]]
-
-Puede detectar que Nyx lleva una memoria bloqueada por trauma. No la fuerza, pero puede advertir que la Cripta de Savia no muestra lo que uno quiere, sino lo que sigue ardiendo bajo la ceniza.
-
-### Con [[Percival]]
-
-Puede pedirle ayuda para interpretar runas, flujos mágicos o mecanismos antiguos. Percival puede servir como traductor arcano de la enfermedad del árbol.
-
-### Con [[Radagon]]
-
-Las marcas de Radagon pueden inquietarla. No por ser demoníacas, sino porque reaccionan a la misma estasis que enferma el árbol. Puede advertirle que el odio también puede congelarse.
-
-### Con [[Tristán Murogris]]
-
-Lo conoce de vista. Sabe que defendió a refugiados o pobres más de una vez. No lo considera un fracasado.
-
-## Secretos para el director
-
-- Liora no sabe todo sobre [[Iria, la Llama Joven]], pero ha visto ese nombre en raíces fosilizadas y cantos antiguos.
-- Puede sacrificar su posición entre los Custodios si eso permite salvar el árbol.
-- Si el arco necesita una víctima emocional, Liora puede quedar herida defendiendo la Cripta, pero no conviene matarla salvo que la mesa busque un tono muy duro.
+| Habilidad  | Valor | Especialización | Notas |
+| ---------- | ----: | --------------- | ----- |
+| Atletismo  |     2 |                 |       |
+| Equilibrio |     3 |                 |       |
+| Estudios   |     2 |                 |       |
+| Pelea      |     1 |                 |       |
