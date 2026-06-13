@@ -43,14 +43,45 @@ El rescate termina con un enfrentamiento contra Verya. Tristán, hundido y herid
 ## Ideas de partida originales
 
 - Los jugadores llegan a Lucrados y ven dificultades para entrar.
-- Irán a la taberna de la ciudad. Beberán, entenderán un poco mejor el ambiente de la ciudad y [[Liora Raízclara]] les gastará una broma. Poco después huirá.
-- Acaban llegando a [[Capilla del Ascua]], donde se topan con [[Caín]]. Este hablará con [[Percival]] y el resto de los jugadores y les contará un poco de la capilla.
+	- Detalles:
+		- Una niña pequeña le pregunta a su padre porqué dejan su aldea
+		- Hay gente que menciona que los oráculos han predicho un invierno duro
+		- La guardia empieza a denegar entradas, la gente se pone nerviosa
+		- Los jugadores les costará entrar: Un guardia borde les niega la entrada por las pintas de Pércival (nunca han visto un tiefling). La tensión escalará pero finalmente aparecerá [[Lucian]], un guardia veterano que les pregunta si tienen algún salvoconducto, ellos usarán el que les dieron en [[Brezal]] y lograrán entrar. Tras ellos no podrá entrar casi nadie.
+		- Al entrar en la ciudad verán una zona activa, llena de tiendas y negocios (herrerías, sastrerías... Están en la parte de la ciudad donde están los oficios)
+			- Gancho 1: DESARROLLAR
+			- Gancho 2: DESARROLLAR
+			- Gancho 3: DESARROLLAR
+	- Irán a la taberna de la ciudad. Beberán, entenderán un poco mejor el ambiente de la ciudad y [[Liora Raízclara]] les gastará una broma. Poco después huirá.
+		- Detalles:
+			- La broma de Liora: Liora les gastará una broma pesada. Algo que haga a los personajes querer perseguirla pero que no puedan llegar a hacerlo. --> DESARROLLAR
+			- En la taberna conversarán con el tabernero: Un hombre amable y de unos 50 años. Regordete. Les contará un poco de la situación.
+				- Hace tres años el [[Duque Mael Tercano]] llegó al poder y desde entonces está denostando a los [[Custodios de la Savia]]. *"Pobres hombres. Ellos solo se dedican a estudiar el árbol y a cuidar a nuestra gente, pero el Duque dice que hay corruptos entre ellos y que robaban el agua. No puedo imaginarme al anciano [[Caín]] haciendo tales cosas."*
+				- Los impuestos suben: *"Parece que ante la llegada del invierno la oficina de recaudación ha endurecido los impuestos. Antes el negocio iba bien, pero con estas subidas nos cuesta más vivir. Por suerte o por desgracia este invierno llegará antes, y mucha gente ha entrado en la ciudad y se queda en la taberna."* 
+					- Si preguntan porqué el invierno empezará antes: *"Los augures de Árefel han hablado. Siempre predicen cuando empieza el invierno, pero esta vez nos han alarmado a todos. Normalmente aún fantarían varios meses hasta la llegada de las primeras heladas. Ellos creen que esta vez será diferente y nos piden resguardarnos más."*
+- Al salir de la taberna y callejear un poco verán de nuevo acaban llegando a [[Capilla del Ascua]], donde se topan con [[Caín]]. Este hablará con [[Percival]] y el resto de los jugadores y les contará un poco de la capilla.
+	- Detalles:
+		- Al entrar en la capilla verán a [[Caín]] leyendo junto a la llama. (Por si pregunta [[Percival]] está leyendo un extracto de herbolaria que habla del Árbol Madre.)
+		- [[Caín]] preguntará a los jugadores que les trae aquí, les contará qué es este lugar y al enterarse de lo de [[Liora Raízclara]] se disculpará por ella. Justo en ese momento entrará por la puerta y se dará cuenta al ver a los jugadores de que se ha metido en un lío. Después de una ligera regañina todo estará bien. La idea es que los jugadores cojan cariño a Liora y a Caín. 
 - Liora entrará en la capilla cuando están los PJ. Esto hará que Liora sea delatada y al final Caín pida perdón a los jugadores, al igual que Liora. Les ofrecerán un sitio donde dormir.
 - Los jugadores entenderán las dificultades que vive la ciudad por la represión del duque y su guardia ducal.
 - Los jugadores se enterarán de que [[Tristán Murogris]] está encarcelado, por lo visto por tercera vez en lo que va de mes. En este caso por interferir en una redada de la guardia ducal. Normalmente suelen sacarlo pronto. Sabrán la sentencia mañana cuando las anuncie el pregonero.
+	- Detalles:
+		- Esto lo contará [[Caín]] durante la cena (ha invitado a los jugadores a cenar y quedarse a dormir)
+		- Caín explica que Tristán es un buen hombre y les hablará de su historia:
+			- Fue entrenado por su padre Zedran y por los antiguos escribas de la capilla. Lamentablemente los escribas fueron ejecutados por el duque durante la noche triste. 
+				- La noche triste tuvo lugar hace 2 años. Al ver las medidas del duque y sospechar que estaba usando el lago para enriquecerse trataron de deponerle y reinstaurar al anterior duque. Por desgracia para ellos el duque tenía un espía entre los escribas de la capilla y logro evitar el levantamiento, ahorcando a los escribas por traición. Caín se libró ya que no participó en el levantamiento. Si preguntan porqué no participo la respuesta es sencilla: Alguien debía cuidar de las escrituras y de la capilla si algo salía mal.
+			- Tristán fue bendecido por la llama: Desde tiempos antiguos la capilla del ascua ha entrenado a paladines de la llama que velaban por la ciudad y la capilla. La llama bendecía a varios paladines que defendían al pueblo y estos actuaban como guardianes y protectores de la ciudad. La llama llevaba décadas sin bendecir a un paladín de la llama hasta que decidió bendecir a Tristán. (NOTA PARA EL NARRADOR: Para que Tristán pueda irse con el grupo, al final de la parte II [[Verya Quelebrin]] tendrá su arco de redención y se volverá contra el duque, siendo bendecida por la llama.)
 - La mañana siguiente en la plaza central, en lugar del pregonero estará [[Verya Quelebrin]], quien anunciará entre otras cosas el destino de [[Tristán Murogris]]. Tristán es sentenciado a muerte por traición, oposición a la ley, defensa de delincuentes y violencia. La gente se mostrará indignada y habrá algunas voces en la plaza, pero la fuerte presencia de la guardia ducal evitará altercados mayores.
 - Los jugadores, junto a Caín y Liora, se infiltrarán en la prisión para liberar a Tristán.
-- Mientras están infiltrados en la prisión, los jugadores serán testigos de una conversación entre dos guardias, que mencionarán que por fin tienen una noche libre tras pasar las últimas semanas llenando barriles de agua de raíz y llevándolas por los pasillos. Aquí los jugadores verán el primer patrón claro de corrupción.
+	- Detalles:
+		- Entrar en la prisión no será fácil. Tendrán que hacerlo por la noche. Solo hay un camino que lleva a la prisión y siempre está vigilado fuertemente, con lo cual quedará descartado. Caín les informará que hay otra opción: Escalar por la corteza del árbol y usar una de sus ramas bajas para llegar a la prisión. Esta les acercará bastante a una terraza del piso superior.
+			- Tendrán que hacer tiradas para subir el tronco del árbol y acabarán llegando a la rama. Esta rama es  grande (unos 5 metros de diámetro) y con cuidado y algunas tiradas de equilibrio llegarán a la terraza.
+		- La terraza está más apartada de la rama de lo que se veía desde abajo, por lo que llegar hasta la terraza requerirá que los personajes salten (tirada de dificultad 7)
+		- En la terraza habrá una única puerta. Abrirla requerirá una tirada de Latrocinio. Si la tirada falla escucharán pasos al otro lado (un guardia se ha dado cuenta de que pasa algo y abrirá la puerta. Si al abrir logran silenciarle rápido no pasará nada y lograrán entrar por suerte. Si no logran silenciarle alertará a la guardia y estarán en apuros)
+		- Tras la terraza seguirán por la prisión buscando a Tristán. Deberán hacer varias tiradas de sigilo para evitar guardias.
+		- Mientras están infiltrados en la prisión, los jugadores serán testigos de una conversación entre dos guardias, que mencionarán que por fin tienen una noche libre tras pasar las últimas semanas llenando barriles de agua de raíz y llevándolas por los pasillos. Los guardias también hablarán de Tristán: Verya le quería en las salas colgantes. Gracias a esta mención los jugadores sabrán como llegar
+		- Al llegar a su celda Tristán estará encerrado y decaído. Se negará a escapar con los personajes ya que no le ve sentido a nada. En ese momento aparecerá [[Liora Raízclara]], quien en secreto había seguido a los personajes. Ella convencerá a Tristán de escapar.
 - Tristán será rescatado y, antes de escapar, habrá un enfrentamiento contra la capitana Verya Quelebrin. Tristán, debido a su fuerte depresión, no será capaz de luchar. Al verse sobrepasados, lograrán huir por poco saltando por una ventana de la prisión y cayendo al río. Antes de saltar, Tristán será herido por una flecha.
 - Tras esto, los jugadores volverán a la [[Capilla del Ascua]] para pedir ayuda a Caín y ver dónde esconderse. En ese momento se revelará el Altar de la Llama: accidentalmente uno de los jugadores tocará la llama y se abrirá un pasillo secreto bajo el altar de la capilla. Este pasillo revelará el viejo templo de la llama y el verdadero altar, más grande y poderoso, que muestra únicamente una llama vieja a punto de desvanecerse.
 - Al llegar al Altar de la Llama, tanto los jugadores como Tristán, que también es un elegido de la llama, tendrán una visión en la que Iria les contará que hay más altares de la llama repartidos por el mundo, igual que más árboles madre. Deberán encontrarlos y reavivarlos para poder vencer a la Gran Helada, pues se acerca una Segunda Gran Helada y el tiempo juega en su contra.
